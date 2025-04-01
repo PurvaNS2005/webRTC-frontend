@@ -120,8 +120,8 @@ const CreateRoom = () => {
         
         <div className="mb-6">
           <label className="block text-gray-700 text-lg font-semibold mb-2">Room Genre</label>
-          <Dropdown
-            options={["Select a genre", "Music", "Movies & Videos"]}
+          <Dropdown // Dropdown component
+            options={["Select a genre", "Music", "Movies & Videos", "Photography and Media", "Art", "Other"]}
             selected={selectedGenre}
             setSelected={setSelectedGenre}
           />
