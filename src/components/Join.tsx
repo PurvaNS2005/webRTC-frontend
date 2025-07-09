@@ -531,7 +531,7 @@ const Join = () => {
                     <tr key={room.id} className="text-center">
                       <td className="border p-2">{room.name}</td>
                       <td className="border p-2">{room.genre}</td>
-                      <td className="border p-2">{room.users + 1}</td>
+                      <td className="border p-2">{room.users}</td>
                       <td className="border p-2">
                         <button
                           className="bg-blue-500 text-white p-2 w-[4rem] rounded-md hover:bg-blue-600 transition"
