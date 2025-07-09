@@ -1,7 +1,7 @@
 # How to run :
 
 ## 1.
-```ggit clone https://github.com/PurvaNS2005/webrtc-ieee.git into /backend folder.``` 
+```git clone https://github.com/PurvaNS2005/webrtc-ieee.git into /backend folder.``` 
 
 ## 2. 
 ```git clone https://github.com/PurvaNS2005/webRTC-frontend.git into /frontend folder.```
